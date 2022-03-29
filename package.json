@@ -1,0 +1,25 @@
+{
+  "name": "@bitwhys/npm-package-test",
+  "version": "0.1.0",
+  "description": "Foundations of NPM packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcreative-studios/foundation.git"
+  },
+  "keywords": [
+    "package",
+    "test",
+    "npm",
+    "typescript"
+  ],
+  "author": "George Bockari <bitwhys@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitcreative-studios/foundation/issues"
+  },
+  "homepage": "https://github.com/bitcreative-studios/foundation#readme"
+}
